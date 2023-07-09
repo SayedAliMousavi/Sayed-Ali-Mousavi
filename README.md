@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Softenginmast
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C/C++, C#, Python
+- 🌱 I’m currently learning C/C++, C#, Python, Programing Fundamentals
 - 💞️ I’m looking to collaborate on Software Engineering Traniee or Internship
 - 📫 How to reach me with sending an email to me
 
