@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Softenginmast
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently Studing at Islamic University of Najafabad Branch in semester 1 
+- 🌱 I’m currently Studing at Islamic University of Najafabad Branch 
 - 💞️ I’m looking to collaborate on Software Engineering Traniee or Internship
 - 📫 How to reach me with sending an message in Github to me
 
